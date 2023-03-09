@@ -1,7 +1,7 @@
 #-------------------------
 # Operating Specific Junk Files
 #-------------------------
-
+logs
 # OS X
 .DS_Store
 .AppleDouble
